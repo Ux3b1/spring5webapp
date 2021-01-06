@@ -1,6 +1,4 @@
-package guru.springframework.spring5webapp.model;
-
-import org.springframework.context.annotation.Primary;
+package guru.springframework.spring5webapp.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
